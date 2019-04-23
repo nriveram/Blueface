@@ -73,9 +73,7 @@ An app for students in the greek life community on campus to interact. Some exam
    * Home 
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
+<img src="https://i.postimg.cc/DwxtzYSM/IMG-7706.jpg" width=600>
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
